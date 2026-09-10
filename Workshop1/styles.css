@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f0e6;
+    color: #333;
+    margin: 40px;
+}
+
+h1 {
+    color: #a0522d;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+img {
+    border: 3px solid #a0522d;
+    border-radius: 8px;
+}
+
+a {
+    color: #a0522d;
+}
